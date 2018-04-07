@@ -4,7 +4,6 @@ title: About Me
 header: About Me
 group: navigation
 ---
- * **Name:** Yitao Yao
- * **Email:** [simpleyyt@gmail.com](mailto:simpleyyt@gmail.com)
- * **WeiBo:** [摇一摇SimpleLife](http://www.weibo.com/u/1836017133)
- * **Github:** [Simpleyyt](https://github.com/Simpleyyt)
+ * **Name:** Jae-ik Shin
+ * **Email:** [jishin86@gmail.com](mailto:jishin86@gmail.com)
+  * **Github:** [jishin86](https://github.com/jishin86)
