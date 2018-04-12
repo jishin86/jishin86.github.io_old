@@ -7,11 +7,6 @@ highlighter: pygments
 
 markdown: kramdown
 
-#### url setting
-url: https://jishin86.github.io
-baseurl: "/blog"
-
-
 # The title and tagline is showed on homepage
 #
 title :  Jae-ik's Blog
