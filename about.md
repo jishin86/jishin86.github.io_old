@@ -8,7 +8,7 @@ group: navigation
 Jae-ik Shin's Curriculum Vitae
 ---
 
- * **Name:** Jae-ik Shin
+ * **Name:** Jae-ik Shin (Jake)
  * **Email:** [jishin86@gmail.com](mailto:jishin86@gmail.com)
  * **Github:** [jishin86](https://github.com/jishin86)
  * **Skype:** jake.shin0
@@ -28,31 +28,32 @@ Department of Physics, The Catholic University of Korea Korea, Feb. 2009
 
 Academic and Research Career
 ---
-- ### High Performance Computing Scientist, Senior Researcher (Jan. 2018 – Dec. 2018), 
+- ### High Performance Computing Scientist, Senior Researcher (Jan. 2018 – Dec. 2018),
 Institute for High Performance Computing Technology, Daehan HPC, Daehan Consulting Group (Daehan C&G)
 (Major role: Research and development about open source HPC solution)
-System Consulting: Intel Xeon & Xeon Phi Cluster for Science Computing (AI) 
-Instructor: Lecture about HPC(supercomputer) cluster architecture and administration
+System Consulting: Intel Xeon & Xeon Phi Cluster for Science Computing (AI)
+ - Instructor: Lecture about HPC(supercomputer) cluster architecture and administration
 
-- ### Researcher, Entrusted Researcher (Oct. 2014 – Dec. 2016), 
+
+- ### Researcher, Entrusted Researcher (Oct. 2014 – Dec. 2016),
 Medical Physics Team, Division of Heavy-Ion Clinical Researches, Korea Institute of Radiological and Medical Science (KIRAMS)
 (Major role: Measurement and simulation about Irradiation system and dosimetry)
-Research Project: “Development of Heavy-Ion Therapy Accelerator (KHIMA)”
-
+ - Research Project: “Development of Heavy-Ion Therapy Accelerator (KHIMA)"
+ -
 - ### Researcher, Project Assist (Jan. 2011 – Sep. 2014)
 Proton Therapy Center, National Cancer Center in Korea (NCC)
 (Major role: GEANT4 Simulation about proton therapy, scintillator dosimetery development)
-Research Project: “Monte Carlo Simulation, Proton Therapy, Patient QA”
-Research Project: “Development of absorbed dose verification system for proton therapy”
-Research Project: “PROTontherapy Evaluation Using Simulations”
-Research Project: “France Korea Particle Physics and e-science Laboratory (FKPPL)”
-
+ - Research Project: “Monte Carlo Simulation, Proton Therapy, Patient QA”
+ - Research Project: “Development of absorbed dose verification system for proton therapy”
+ - Research Project: “PROTontherapy Evaluation Using Simulations”
+ - Research Project: “France Korea Particle Physics and e-science Laboratory (FKPPL)”
+ -
 - ### Graduate student, Master course (June 2004- May 2007)
 Yonsei High Energy Physics Laboratory (YHEP), Yonsei University
 (Major role: GEANT4 simulation about Cosmic-ray Ground Detector, BELLE-II calorimeter endcap)
-Research Project: “Search for New Physics through exotic B meson decays from Belle”
-Research Project: “Ground and Space Observation of Ultra High-Energy Cosmic Rays”
-
+ - Research Project: “Search for New Physics through exotic B meson decays from Belle”
+ - Research Project: “Ground and Space Observation of Ultra High-Energy Cosmic Rays”
+ -
 
 Awards and Honors
 ---
@@ -66,7 +67,7 @@ Professional Affiliations
 - #### [Geant4 Collaboration](http://www.geant4.org/)
 - #### [Geant4-DNA Collaboration](http://geant4-dna.org/)
 
-Core Skill 
+Core Skill
 ---
 - Monte Carlo Simulation Development for radiation transport calculation and detection written by C++ programing with GEANT4 toolkit
 - Statistical analysis about the simulation data by C++, ROOT
@@ -105,8 +106,8 @@ Clinic-related Experience
 - Typical Proton Therapy Patient QA (I assisted the medical physicist in range measurement, output measurement for proton therapy at National Cancer Center in Korea)
  - Equipment: Ion chamber(PTW), 3D water phantom, MLIC(IBA Zebra), Matrixx(IBA)
 - Experience for Raystation(RaySearch), Eclipse(Varian) TPS: To compare the dose distribution in water with simulation and measurement, I calculated the simple planning to water phantom)
- 
- 
+
+
 Publications (2 Publications as First-author, 19 Publications as Co-author)
 ---
 
@@ -136,8 +137,8 @@ Publications (2 Publications as First-author, 19 Publications as Co-author)
  
 Conference Presentation (11 Poster, 7 Oral)
 ---
-1. Jae-ik Shin et al, “Development of the Monte Carlo Simulation Platform Using Geant4 for Designing Heavy Ion Therapy Beam Nozzle”, 58th AAPM Annual Meeting, USA 2016 
-2. Jae-ik Shin et al, “Development of the Monte Carlo simulation platform using Geant4 for designing particle therapy beam nozzle”, 3rd Geant4 School & Monte Carlo Workshop for Radiotherapy, Imaging and Radiation Protection, Australia 2016 
+1. Jae-ik Shin et al, “Development of the Monte Carlo Simulation Platform Using Geant4 for Designing Heavy Ion Therapy Beam Nozzle”, 58th AAPM Annual Meeting, USA 2016
+2. Jae-ik Shin et al, “Development of the Monte Carlo simulation platform using Geant4 for designing particle therapy beam nozzle”, 3rd Geant4 School & Monte Carlo Workshop for Radiotherapy, Imaging and Radiation Protection, Australia 2016
 3. Jae-ik Shin et al, “Basic beam modeling of the Monte Carlo simulation platform for designing particle therapy beam nozzle”, 2015 Korean Society of Medical Physics Autumn meeting, Korea, 2015
 4. Jae-ik Shin et al, “Development of the Monte Carlo simulation platform using Geant4 for designing particle beam nozzle”, International Conference of Cancer Research 2015, Japan, 2015
 5. Jae-ik Shin et. al, “Development of the Monte Carlo simulation platform using Geant4 for designing particle beam nozzle.”, Space Radiation and Heavy Ions in Therapy Symposium 2015, Japan, 2015
@@ -163,4 +164,3 @@ Patents (3 Domestic, 2 International)
 3. Se Byeong Lee, Tae Hyun Kim, Sey Joon Park, Dong Ho Shin, Jae Ik Shin, Young Kyung Lim, Chi Young Jeong, Sung Koo Cho, “Charged Particle Beam Dosimetry Device and Imaging Device thereof”, Korea Patent 10-2013-0061172
 4. Se Byeong Lee, Tae Hyun Kim, Sey Joon Park, Dong Ho Shin, Jae Ik Shin, Young Kyung Lim, Chi Young Jeong, Sung Koo Cho, “DEVICE FOR MEASURING RADIATION DOSE CAPABLE OF HORIZONTAL AND ROTATIONAL OPERATION AND DEVICE FOR DETECTING RADIATION THEREOF”, International Patent, PCT/KR2014/004499
 5. Se Byeong Lee, Tae Hyun Kim, Sey Joon Park, Dong Ho Shin, Jae Ik Shin, Young Kyung Lim, Chi Young Jeong, Sung Koo Cho, “APPARATUS FOR MEASURING RADIATION DOSAGE OF CHARGED PARTICLE AND IMAGING APPARATUS”, International Patent, PCT/KR2014/004501
-
