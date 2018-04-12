@@ -7,10 +7,15 @@ highlighter: pygments
 
 markdown: kramdown
 
+#### url setting
+url: https://jishin86.github.io
+baseurl: "/blog"
+
+
 # The title and tagline is showed on homepage
 #
 title :  Jae-ik's Blog
-tagline: Jae-ik's Blog
+tagline: Log of Studies
 
 gems: [jekyll-paginate]
 
@@ -24,7 +29,7 @@ author :
 contact :
   e-mail : mailto:jishin86@gmail.com
   Github : https://github.com/jishin86
-  Linkdin : www.linkedin.com/in/jae-ik-shin-3a002110b
+  Linkdin : https://www.linkedin.com/in/jae-ik-shin-3a002110b
 
 # Links showed on the footer
 #
